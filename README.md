@@ -1,0 +1,2 @@
+# node-eslintrc
+My .eslintrc
